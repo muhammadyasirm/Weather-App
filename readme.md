@@ -132,7 +132,7 @@ Possible improvements for future versions include:
 BS Computer Science Student | Aspiring Full-Stack Developer
 
 - GitHub: [Muhammad Yasir](https://github.com/muhammadyasirm)
-- LinkedIn: [Muhammad Yasir]([https://www.linkedin.com/](https://www.linkedin.com/in/muhammad-yasir-0398283bb/?isSelfProfile=true))
+- LinkedIn: [Muhammad Yasir](https://www.linkedin.com/in/muhammad-yasir-0398283bb/?isSelfProfile=true)
 
 ## 📄 Data Source
 
