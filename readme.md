@@ -131,8 +131,8 @@ Possible improvements for future versions include:
 
 BS Computer Science Student | Aspiring Full-Stack Developer
 
-- GitHub: [YOUR-GITHUB-USERNAME](https://github.com/YOUR-GITHUB-USERNAME)
-- LinkedIn: [YOUR-LINKEDIN-PROFILE](https://www.linkedin.com/)
+- GitHub: [YOUR-GITHUB-USERNAME]([https://github.com/YOUR-GITHUB-USERNAME](https://github.com/muhammadyasirm))
+- LinkedIn: [YOUR-LINKEDIN-PROFILE]([https://www.linkedin.com/](https://www.linkedin.com/in/muhammad-yasir-0398283bb/?isSelfProfile=true))
 
 ## 📄 Data Source
 
