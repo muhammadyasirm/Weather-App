@@ -1,0 +1,101 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Weather App</title>
+    <link rel="stylesheet" href="style.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.3.1/css/all.css"
+      integrity="sha512-x9WwyMYBnlXMNQ6kQ/Lyzu1NqIhLQKL5Oq6xByfXuRj7s9CskyCbLv/1IjqzJmXwFXWr0ov6jBV7Qbc0hh9nHg=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
+  </head>
+  <body>
+    <div class="main">
+      <div class="card">
+        <div class="section1">
+          <p class="title">
+            <i id="" class="fa-solid fa-cloud-sun"></i> Weather App
+          </p>
+          <p class="sub_title">Check the weather of any city</p>
+        </div>
+        <div class="section2">
+          <div class="input">
+            <input
+              class="city"
+              type="text"
+              name="city"
+              placeholder="Enter city name..."
+            />
+            <button id="btn">Search</button>
+          </div>
+          <p id="data_status"></p>
+          <div class="weather_icon">
+            <i id="weather_icon" class="fa-solid fa-cloud-sun"></i>
+          </div>
+          <h1 class="city_name"></h1>
+          <p class="country_name"></p>
+          <div class="tem_div">
+            <p>Current Temprature</p>
+            <h1 class="temp">--</h1>
+          </div>
+          <div class="weather_details">
+            <div class="row">
+              <div class="weather_container">
+                <div class="icon">
+                  <i
+                    id="temp_icon"
+                    class="fa-solid fa-temperature-three-quarters"
+                  ></i>
+                </div>
+                <div class="details">
+                  <p>Temprature</p>
+                  <h1 class="temp2">--</h1>
+                </div>
+              </div>
+              <div class="weather_container">
+                <div class="icon">
+                  <i id="humidity_icon" class="fa-solid fa-droplet"></i>
+                </div>
+                <div class="details">
+                  <p>Humidity</p>
+                  <h1 class="humidity">--</h1>
+                </div>
+              </div>
+            </div>
+            <div class="row">
+              <div class="weather_container">
+                <div class="icon">
+                  <i id="wind_icon" class="fa-solid fa-wind"></i>
+                </div>
+                <div class="details">
+                  <p>Wind Speed</p>
+                  <h1 class="wind">--</h1>
+                </div>
+              </div>
+              <div class="weather_container">
+                <div class="icon">
+                  <i id="time_icon" class="fa-solid fa-earth-americas"></i>
+                </div>
+                <div class="details">
+                  <p>Time Zone</p>
+                  <h1 class="time">--</h1>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="footer">
+            <p>Current weather data</p>
+            <p>Made with <i class="fa-solid fa-heart"></i> by Muhammad Yasir</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <script crossorigin="anonymous"></script>
+
+    <script src="script.js"></script>
+  </body>
+</html>
